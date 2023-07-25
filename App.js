@@ -4,7 +4,8 @@ import { SafeAreaView } from 'react-native'
 import { ScrollView } from 'react-native'
 import FlatCard from './FlatCard'
 import Elevated from './Elevated'
-import FancyCard from './fancyCard'
+import FancyCard from './FancyCard'
+import ActionCard from './ActionCard'
 const App = () => {
   return (
     
@@ -13,6 +14,7 @@ const App = () => {
     <FlatCard/>
       <Elevated/>
       <FancyCard/>
+      <ActionCard/>
       </ScrollView>
     </SafeAreaView>
   )

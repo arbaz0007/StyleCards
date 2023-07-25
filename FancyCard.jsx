@@ -14,10 +14,10 @@ export default function fancyCard() {
     style={styles.cardImage}
 />
 <View style={styles.cardBody}>
-<Text style={styles.cardTitle}>hii</Text>
-<Text style={styles.cardlable}>hello</Text>
-<Text style={styles.cardDis}>hey</Text>
-<Text style={styles.cardFoter}>hii</Text>
+<Text style={styles.cardTitle}>River in mountains </Text>
+<Text style={styles.cardlable}>Beautiful place to make body and mind fresh . And gave life a restart button and sit in peace and think what to do ,and how to do set goals and try to achive them harder </Text>
+<Text style={styles.cardDis}>Hey there I know You Can Do This Just Push A Little Harder And Allah will Give Success TO You </Text>
+<Text style={styles.cardFoter}>Go Achive All GOals.</Text>
 
 </View>
       </View>
